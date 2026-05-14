@@ -65,4 +65,3 @@
            MOVE RR TO DIS-RESULTS
            DISPLAY DIS-RESULTS.
        END-FIND-SQRROOT.
-
